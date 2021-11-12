@@ -18,4 +18,4 @@ This Project shows Analysis on the World Population and Predicts the Population 
 Contributions, issues and feature requests are welcome.
 
 ## License
-[GNU]()
+This project is [GNU](https://github.com/ProsperChuks/Population-Estimate-and-Projection/blob/main/LICENSE) licensed.
