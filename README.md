@@ -34,7 +34,7 @@ The Box Jenkins ACF and PACF Methodology were used to determine which model to u
 | 2033-12-31 | 8740274696.86411  | 0.79            | 19.35 | 6.48 |
 | 2034-12-31 | 8807220153.354633 | 0.77            | 19.39 | 6.41 |
 | 2035-12-31 | 8869177571.884983 | 0.75            | 19.42 | 6.34 |
-[...](https://github.com/ProsperChuks/Population-Estimate-and-Projection/files/7526691/World.Population.Projections.csv)
+[...](https://github.com/ProsperChuks/Population-Estimate-and-Projection/blob/main/forecasts/prediction/World%20Population%20Projections.csv)
 
 
 ## Contributions
