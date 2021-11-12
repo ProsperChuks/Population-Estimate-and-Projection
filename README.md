@@ -8,7 +8,7 @@ This Project shows Analysis on the World Population and Predicts the Population 
 - ARIMA Model
 - FBProphet
 
-The Box Jenkins ACF and PACF Methodology were used to determine which model to use:
+The Box Jenkins ACF and PACF Methodology were used to determine which model to use for Year Change and Crude Birth Rate:
 ![acfpacf](https://user-images.githubusercontent.com/28939122/141448495-e160bccc-04a7-4a1b-ab12-34bfaec1a4d4.png)
 
 ## Metrics Used
