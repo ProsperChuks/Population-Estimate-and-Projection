@@ -8,3 +8,14 @@ This Project shows Analysis on the World Population and Predicts the Population 
 - AR Model
 - ARIMA Model
 - FBProphet
+
+## Metrics Used
+### Measure of Error
+- Mean Absolute Percentage Error
+- Root Mean Square Error
+
+## Contributions
+Contributions, issues and feature requests are welcome.
+
+## License
+[GNU]()
